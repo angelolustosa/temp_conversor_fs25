@@ -7,5 +7,9 @@ function convertCtoK(tempC) {
     
 }
 
+function converter() {
+    console.log('Ei Clicou!'); 
+}
+
 converterCtoF(18)
 converterCtoF(30)
