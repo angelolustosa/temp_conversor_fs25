@@ -1,10 +1,11 @@
-/* .resultado {
+.resultado {
     background-color: black;
-    display: flex;
-    text-align: center;
+    display: none;
     justify-content: center;
     align-items: center;
-    width: 150px;
-    height: 150px;
     color: aliceblue;
-} */
+    font-weight: 600;
+    font-size: 22px;
+    padding: 20px;
+    border-radius: 5px;
+}
